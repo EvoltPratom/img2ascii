@@ -3,6 +3,9 @@
 ```sh
 git clone https://github.com/EvoltPratom/img2ascii.git
 ```
+(Or)
+
+if you are using powershell without git
 
 <code>wget -o i2a.zip https://github.com/EvoltPratom/img2ascii/archive/master.zip</code>
 

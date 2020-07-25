@@ -4,6 +4,8 @@
 python i2a.py file1.jpg file2.png file3.jpeg
 </code>
 
+As a library
+
 ```sh
 >>> from i2a import img2ascii
 >>> img2ascii('t2.jpg')

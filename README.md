@@ -1,9 +1,9 @@
-
-
 #Convert image files to ascii text files
+
 <code>
 python i2a.py file1.jpg file2.png file3.jpeg
 </code>
+
 ```sh
 >>> from i2a import img2ascii
 >>> img2ascii('t2.jpg')

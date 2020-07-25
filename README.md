@@ -1,4 +1,4 @@
-#Convert image files to ascii text files
+# Convert Image files to ascii text
 
 <code>
 python i2a.py file1.jpg file2.png file3.jpeg

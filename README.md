@@ -2,7 +2,7 @@
 
 ```sh
 git clone https://github.com/EvoltPratom/img2ascii.git
-```sh
+```
 
 <code>
 python i2a.py file1.jpg file2.png file3.jpeg
